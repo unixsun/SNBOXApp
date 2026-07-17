@@ -1,48 +1,74 @@
 
 # SNBOXApp
 
-SNBOXApp 是一款简洁、轻量的移动端网络代理工具，基于 sing-box 内核构建，专注于清爽的使用体验、节点管理和移动端稳定连接。
+SNBOXApp A simple and lightweight mobile web proxy tool built on the sing-box core, focusing on a clean user experience, node management, and stable connections on mobile devices.
+
+The versions for other platforms are currently under update and will be available soon.
+
+Supported protocols include: Vless, Vmess, Shadowsocks, Trajon, Hysteria2, Socks, etc.
+
+Support node configuration editing
+
 
 <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/3550a7a8-c35f-4bd3-9a37-b420cc332191" />
 
+## Download
 
-## 主要特点
+Please go to the Releases page to download the latest version installation package:
 
-- 简洁直观的首页仪表盘
-- 实时显示上传 / 下载速度
-- 支持公网 IP 信息展示
-- 支持节点延迟测试
-- 支持订阅导入与刷新
-- 支持二维码扫描导入
-- 支持手动导入节点链接
-- 支持浅色 / 深色主题
-- 支持蓝色 / 紫色主题色
-- 面向移动端优化的界面交互
+Windows:
+[Download SNBOX_Windows_x64](https://github.com/unixsun/SNBOX/releases)
 
-## 下载
+ Android:
+[Download Android arm64-v8a APK](https://github.com/unixsun/SNBOXApp/releases/latest)
 
-请前往 Releases 页面下载最新版 Android 安装包：
+## Language
+中文，English（The Russian and Iranian languages are coming.）
 
-[下载最新版](https://github.com/unixsun/SNBOXApp/releases/latest)
 
-当前主要提供：
+## Function
 
-```text
-Android arm64-v8a APK
-```
+- Node import and management
+- Subscription link import
+- One-click connect / disconnect
+- Real-time upload and download speed display
+- Website connectivity test
+- View application logs and core logs
+- System proxy cleanup
+- Tray menu operations
 
-## 使用说明
-下载并安装最新版 APK
-打开 SNBOXApp
-通过订阅 URL、二维码或本地 JSON 导入配置
-选择节点
-点击首页按钮启动连接
-更新方式
-SNBOXApp 支持检查 GitHub Release 上的最新版本。
-后续版本发布后，可通过应用内“检查更新”或本仓库 Releases 页面获取新版安装包。
-免责声明
-本软件仅供学习交流和科研等非商业性质的用途，严禁将本软件用于商业目的。
-如违反本条款，均与本软件无关。
-项目状态
-SNBOXApp 当前仍处于早期测试阶段，功能和界面会持续优化。
-如果你在使用中遇到问题，可以在 Issues 中反馈。
+## Instructions
+
+### Import Subscription
+
+Go to the "Subscription" page, enter the subscription link, and click "Import".
+
+### Import Node
+
+Go to the "Node" page, enter the node link, and click "Import".
+
+### Connect to Node
+
+Select a node on the home page or the node page, and click "One-Click Connect".
+
+### Disconnect
+
+## Disclaimer
+This software is intended solely for non-commercial purposes such as learning, communication, and research. Use of this software for commercial purposes is strictly prohibited.  
+Any violation of these terms shall be unrelated to this software.
+
+## Project Status
+SNBOXApp is still in the testing phase, and features and interface will continue to be refined.
+
+## Feedback/反馈
+
+如遇到问题，请在 GitHub Issues 中反馈。
+
+If you have any problems, please report them in the GitHub Issues section.
+
+## Channel/频道
+
+Telegram Channel / 频道：
+https://telegram.me/snbox_unixsun
+
+
