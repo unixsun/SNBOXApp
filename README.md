@@ -10,7 +10,7 @@ Supported protocols include: Vless, Vmess, Shadowsocks, Trajon, Hysteria2, Socks
 Support node configuration editing
 
 
-<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/3550a7a8-c35f-4bd3-9a37-b420cc332191" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/3550a7a8-c35f-4bd3-9a37-b420cc332191" />
 
 ## Download
 
