@@ -3,6 +3,9 @@
 
 SNBOXApp 是一款简洁、轻量的移动端网络代理工具，基于 sing-box 内核构建，专注于清爽的使用体验、节点管理和移动端稳定连接。
 
+<img width="560" height="1175" alt="image" src="https://github.com/user-attachments/assets/3550a7a8-c35f-4bd3-9a37-b420cc332191" />
+
+
 ## 主要特点
 
 - 简洁直观的首页仪表盘
